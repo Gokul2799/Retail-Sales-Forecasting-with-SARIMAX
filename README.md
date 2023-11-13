@@ -38,25 +38,25 @@ This project leverages SARIMAX time series forecasting to predict retail sales f
 ## Screenshots
 
 1. **Plot of Weekly Sales against Time for Selected Stores**
-   - ![Placeholder for Screenshot 1](path/to/screenshot1.png)
+   - ![Placeholder for Screenshot 1](screenshots/screenshot1.png)
 
 2. **Plot Showing Effect of Different Features on Weekly Sales**
-   - ![Placeholder for Screenshot 2](path/to/screenshot2.png)
+   - ![Placeholder for Screenshot 2](screenshots/screenshot2.png)
 
 3. **Evaluation Scores of ARIMA Model for 6 Stores**
-   - ![Placeholder for Screenshot 3](path/to/screenshot3.png)
+   - ![Placeholder for Screenshot 3](screenshots/screenshot3.png)
 
 4. **Evaluation Scores of SARIMAX Model for 6 Stores**
-   - ![Placeholder for Screenshot 4](path/to/screenshot4.png)
+   - ![Placeholder for Screenshot 4](screenshots/screenshot4.png)
 
 5. **Predictions of SARIMAX Model for Top 3 Stores**
-   - ![Placeholder for Screenshot 5](path/to/screenshot5.png)
+   - ![Placeholder for Screenshot 5](screenshots/screenshot5.png)
 
 6. **Predictions of SARIMAX Model for Bottom 3 Stores**
-   - ![Placeholder for Screenshot 6](path/to/screenshot6.png)
+   - ![Placeholder for Screenshot 6](screenshots/screenshot6.png)
 
 7. **Forecasting of All 6 Stores using SARIMAX**
-   - ![Placeholder for Screenshot 7](path/to/screenshot7.png)
+   - ![Placeholder for Screenshot 7](screenshots/screenshot7.png)
 
 
 ## License
